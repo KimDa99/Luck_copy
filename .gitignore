@@ -1,0 +1,8 @@
+Luck3D/Library/PackageCache/
+Luck3D/Library/
+*.vsconfig
+Luck3D/ProjectSettings/
+Luck3D/Assets/Scenes/
+*.json
+Luck3D/UserSettings/
+Luck3D/Temp/
